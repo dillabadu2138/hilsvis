@@ -1,0 +1,8 @@
+# app
+fastapi
+gunicorn
+uvicorn
+pydantic
+
+# db
+databases[postgresql]
